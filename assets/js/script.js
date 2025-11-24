@@ -40,8 +40,8 @@ const translations = {
         more: 'Veja mais Kintsugi',
         more_description: "São belos",
         philosophy: "Kintsugi e Filosofia",
-    }
-};
+        philosophy_description: "O Kintsugi nos lembra que, às vezes, as coisas quebram, desmoronam, param de funcionar, encontram seu fim...Mas isso é um aspecto natural da vida. Todos nós carregamos nossas cicatrizes e traumas, e todos nos lembramos do que perdemos e do que não pôde ser restaurado. Devemos valorizar nossas imperfeições, pois elas nos tornam quem somos. Temos que celebrar não apenas o que temos, mas também o que se foi. Como puro ouro, nós brilhamos e resplandecemos com a beleza que resulta de termos sido quebrados. Faça as pazes consigo mesmo. Entenda que não fomos feitos para ser perfeitos e, com cada erro e equívoco, devemos também dar um passo adiante para nos tornarmos melhores."
+}};
 
 
 const languageToggle = document.getElementById('language-toggle');
