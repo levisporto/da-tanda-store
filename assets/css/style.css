@@ -357,4 +357,15 @@ input[type=file]::-webkit-file-upload-button {
   }
 }
 
+.botao {
+  background-color: transparent;
+  color: #333;               /* Dark text */
+  padding: 3px 6px;
+  border: 1px solid #333;    /* Visible border */
+  border-radius: 50px;       /* Pill shape */
+  
+  cursor: pointer;
+  transition: 0.3s;
+}
+
 /*# sourceMappingURL=style.css.map */
